@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DemoApp\DemoApp.csproj" />
+  </ItemGroup>
+
 </Project>
