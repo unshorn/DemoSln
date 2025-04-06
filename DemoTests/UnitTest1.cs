@@ -5,7 +5,7 @@ using BookLibraryApp.Models;
 public class UnitTest1
 {
     [Fact]
-    public void Test1()
+    public void TestListAdds()
     {
         MyLinkedList<Book> list = new MyLinkedList<Book>();
         var book = new Book
